@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ICTGabe
 - 👀 I’m interested in Hacking, Python and Networking
 - 🌱 I’m currently learning Network and Software Engineering
-- 📫 How to reach me ...
+- 📫 How to reach me gabewithgaap@gmail.com
 
 <!---
 ICTGabe/ICTGabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
