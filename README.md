@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ICTGabe
-- 👀 I’m interested in Hacking, Python and Networking
-- 🌱 I’m currently learning Network and Software Engineering
+- 👀 I’m interested in Ethical Hacking, Python and Networking
+- 🌱 I’m currently studying Network and Software Engineering
 - 📫 How to reach me gabewithgaap@gmail.com
 - 🌐 
 <!---
